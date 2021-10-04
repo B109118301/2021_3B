@@ -6,6 +6,17 @@
 ## 　　　C108133314 簡鼎翰
 ## 　　　C108190147 劉昌儒
 
+# 實作題
+
+Emphasis, aka *italics*, with *asterisks* or *underscores*.
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Combined emphasis with **asterisks and underscores**.
+Strikethrough uses two tildes. ~~Scratch this:~~
+
+
+
+# 堂課練習
+
 ### 2021_3B
 
 #### 2021_3B
